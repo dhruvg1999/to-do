@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.todo {
+  margin-left: 43vw;
+  margin-top: 5vh;
+}
